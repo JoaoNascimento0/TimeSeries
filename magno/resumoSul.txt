@@ -1,0 +1,15 @@
+============================================================
+RESUMO ESTATÍSTICO - ENA SUBSISTEMA SUL
+============================================================
+Período: 1931-2010 (80 anos)
+Média global: 8231.1 MWmed
+Desvio padrão global: 6015.6 MWmed
+Coef. de variação: 73.1%
+Assimetria: 1.577
+
+Mês com maior média: Mar (15092.5 MWmed)
+Mês com menor média: Set (3134.5 MWmed)
+Mês com maior variabilidade: Mar
+Correlação serial anual: 0.391
+Tendência anual: 0.1437 MWmed/ano
+
